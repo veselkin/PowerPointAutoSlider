@@ -1,0 +1,23 @@
+## Игнорируем папки сборки
+[Bb]in/
+[Oo]bj/
+
+## Игнорируем настройки пользователя Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Игнорируем временные файлы
+*.log
+*.tmp
+thumbs.db
+desktop.ini
+
+## Игнорируем пакеты (если используете NuGet локально, но обычно packages скачиваются при сборке)
+packages/
+!packages/build/
+
+## Файлы релизов и публикаций
+*.pubxml
