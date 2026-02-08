@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXqAXYMNvxY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктор\\Documents\\Projects\\minifun\\PowerPointAutoSlider\\PowerPointAutoSlider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.office.interop.powerpoint\\15.0.4420.1018\\microsoft.office.interop.powerpoint.15.0.4420.1018.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Виктор\\.nuget\\packages\\system.drawing.common\\10.0.2\\system.drawing.common.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
