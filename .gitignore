@@ -1,4 +1,6 @@
 ## Игнорируем папки сборки
+.vscode/
+.editorconfig
 [Bb]in/
 [Oo]bj/
 
